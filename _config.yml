@@ -71,6 +71,8 @@ langs:
     lang_string: Polski
   - langcode: pt-BR
     lang_string: Português Brasileiro
+  - langcode: pt-PT
+    lang_string: Português
   - langcode: ro
     lang_string: Română
   - langcode: ru
